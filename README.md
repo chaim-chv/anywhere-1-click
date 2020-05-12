@@ -1,6 +1,8 @@
 # anywhere-1-click
 *firefox exetention for netfree anywhere 2 users*
 
+**לחצו [כאן](https://github.com/chaim-chv/anywhere-1-click/raw/master/anywhere_1_click-1.0.2-fx.xpi) כדי להוריד את התוסף בעברית!!**
+
 **click [here](https://github.com/chaim-chv/anywhere-1-click/raw/master/anywhere_1_click-1.0.1-fx.xpi) to download the add-on**
 
 I created this add-on for myself, and i posting it here, it may be people can enjoy it.
