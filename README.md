@@ -1,7 +1,12 @@
 # anywhere-1-click
-firefox exetention for netfree anywhere 2 users
+*firefox exetention for netfree anywhere 2 users*
+
+**click [here](https://github.com/chaim-chv/anywhere-1-click/raw/master/anywhere_1_click-1.0.1-fx.xpi) to download the add-on**
 
 I created this add-on for myself, and i posting it here, it may be people can enjoy it.
+
+
+__description:__
 
 Whenever netfree anywhere 2 log out, for whatever reason, you need to log into the software settings page and click "Save and Reconnect", wait for login / connection failure and click again. This process is long - and also grabs another tab in the browser, which is particularly troublesome for me (laptop).
 There is a solution to avoid logging in to the settings page, which is by bookmarking a javascript command with fetch to the anywhere reconnecting page. The problem in this way is that you do not see any message if the process was successful or failed, you just have to guess.
