@@ -3,7 +3,7 @@
 
 **לחצו [כאן](https://github.com/chaim-chv/anywhere-1-click/raw/master/%D7%90%D7%A0%D7%99%D7%95%D7%95%D7%90%D7%A8%20%D7%91%D7%A7%D7%9C%D7%99%D7%A7%201.0.3.xpi) כדי להוריד את התוסף בעברית!!**
 
-**click [here](https://github.com/chaim-chv/anywhere-1-click/raw/master/anywhere_1_click-1.0.4-fx.xpi) to download the add-on**
+**click [here](https://github.com/chaim-chv/anywhere-1-click/raw/master/anywhere%201%20click%201.0.4%20fx.xpi) to download the add-on**
 
 I created this add-on for myself, and i posting it here, it may be people can enjoy it.
 
