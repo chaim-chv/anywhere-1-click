@@ -17,4 +17,4 @@ This addon - by clicking on the browser plugin icon connects to the anywhere con
 
 Clicking on the plugin will create a connection request for the form of connection you already have in anywhere. To change the form of the connection, you will need to log in to the standard anywhere settings page.
 
-Note: Instead of clicking the extension icon every time, you can set a combination with a plugin shortcut. In Firefox, press ctrl+shift+A to sign in to the Extensions Manager, click the Settings icon, then click on add-on shortcut management, and configure your shortcut to the add-on (in default is configured on Alt+Shift+Y).
+Note: Instead of clicking the extension icon every time, you can set a combination with a plugin shortcut. In Firefox, press ctrl+shift+A to sign in to the Extensions Manager, click the Settings icon, then click on add-on shortcut management, and configure your shortcut to the add-on (in default is configured on ctrl+Q).
