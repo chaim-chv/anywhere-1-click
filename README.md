@@ -1,9 +1,13 @@
 # anywhere-1-click
 *firefox exetention for netfree anywhere 2 users*
 
-**לחצו [כאן](https://github.com/chaim-chv/anywhere-1-click/raw/master/%D7%90%D7%A0%D7%99%D7%95%D7%95%D7%90%D7%A8%20%D7%91%D7%A7%D7%9C%D7%99%D7%A7%201.0.3.xpi) כדי להוריד את התוסף בעברית!!**
+**לחצו [כאן](https://github.com/chaim-chv/anywhere-1-click/raw/master/%D7%90%D7%A0%D7%99%D7%95%D7%95%D7%90%D7%A8%20%D7%91%D7%A7%D7%9C%D7%99%D7%A7%201.0.3.xpi) כדי להוריד את התוסף לפיירפוקס בעברית!!**
+
+להורדת התוסף לכרום לחצו [כאן](https://chrome.google.com/webstore/detail/%D7%90%D7%A0%D7%99%D7%95%D7%95%D7%90%D7%A8-%D7%91%D7%A7%D7%9C%D7%99%D7%A7/bgbbcdfhbldllhjeffkidliggjboiikp) למעבר לחנות!
 
 **click [here](https://github.com/chaim-chv/anywhere-1-click/raw/master/anywhere%201%20click%201.0.4%20fx.xpi) to download the add-on**
+
+click [here](https://chrome.google.com/webstore/detail/anywhere-1-click/ibaigephdcembmaacdaobpilolmckbab) to download the chrome add-on (from webstore)
 
 I created this add-on for myself, and i posting it here, it may be people can enjoy it.
 
